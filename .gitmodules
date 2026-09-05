@@ -1,0 +1,18 @@
+[submodule "assistants/isair-jarvis"]
+	path = assistants/isair-jarvis
+	url = https://github.com/isair/jarvis.git
+[submodule "assistants/RehanIlyas-JARVIS"]
+	path = assistants/RehanIlyas-JARVIS
+	url = https://github.com/RehanIlyas-dev/JARVIS.git
+[submodule "assistants/amanimran786-jarvis-ai"]
+	path = assistants/amanimran786-jarvis-ai
+	url = https://github.com/amanimran786/jarvis-ai.git
+[submodule "mobile/Aryan-Jarvis-AI"]
+	path = mobile/Aryan-Jarvis-AI
+	url = https://github.com/Aryan-0001/Jarvis-AI.git
+[submodule "robotics/lxsang-jarvis"]
+	path = robotics/lxsang-jarvis
+	url = https://github.com/lxsang/jarvis.git
+[submodule "assistants/off-grid"]
+	path = assistants/off-grid
+	url = https://github.com/marshaltang/off-grid-mobile-ai.git
