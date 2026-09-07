@@ -1,0 +1,9 @@
+PROVIDER=openai
+OPENAI_API_KEY=sk-5f238e76072d7926-92e57f-f18174b2
+OPENAI_API_BASE=http://localhost:20128/v1
+MODEL=kr/claude-sonnet-4.5
+FILE_PATTERNS=*.js,*.ts,*.py,*.sh,*.md
+EXCLUDE_PATTERNS=*.test.ts,*.spec.ts
+RULES_FILE=AGENTS.md
+STRICT_MODE=true
+TIMEOUT=300
